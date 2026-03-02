@@ -1,6 +1,6 @@
 # Sistemas Operacionais – Conteúdos da Disciplina
 
-Este repositório reúne **materiais didáticos, conteúdos teóricos, planos de aula, apresentações e atividades** da disciplina **Sistemas Operacionais**, ofertada no curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)** da **FATEC**.
+Este repositório reúne **materiais didáticos, conteúdos teóricos, planos de aula, apresentações e atividades** da disciplina **Sistemas Operacionais**, ofertada no curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)** da **FATEC Itapetininga**.
 
 O objetivo do repositório é **centralizar e organizar os conteúdos trabalhados em sala de aula**, servindo como apoio ao processo de ensino-aprendizagem, revisão de conceitos e consulta acadêmica.
 
