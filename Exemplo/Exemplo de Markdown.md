@@ -46,7 +46,7 @@ Este documento mostra **diversos recursos do Markdown**, do básico ao avançado
 
 Imagem exemplo:  
 
-![Logo do Markdown](https://markdown-here.com/img/icon256.png)
+![Logo do Markdown]([https://markdown-here.com/img/icon256.png](https://hermes.dio.me/articles/cover/0d03528c-4207-4f42-8dbc-d4e2548a3cd4.png))
 
 ---
 
